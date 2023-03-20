@@ -10,4 +10,8 @@ public class First {
     public void setA(int a) {
         this.a = a;
     }
+
+    public First(int a) {
+        this.a = a;
+    }
 }
